@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Bridging the digital divide, promoting entrepreneurship, and fostering a thriving Open Source ecosystem in Africa
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Vision
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+To create a future where open source software is embraced and accessible across Africa, integrating African languages and cultures. We envision a continent where open source drives local innovation, bridges digital gaps, and fosters sustainable development. We empower Africans to shape their digital future and contribute to the global open source community through collaboration and inclusive participation.

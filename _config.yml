@@ -1,11 +1,12 @@
 # Site settings
 title: Everything Open Source
 email: everythingopensource@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- 
   Official website to document all activities happening in the open source community
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
+logo: static/img/site/evos.jpg
 
 # Everything Open Source Social Links
 twitter: "http://twitter.com/Everything_Open"

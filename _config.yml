@@ -6,7 +6,6 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-logo: static/img/site/evos.jpg
 
 # site details
 overview: Empowering individuals and organizations to embrace code and no-code Open Source contributions

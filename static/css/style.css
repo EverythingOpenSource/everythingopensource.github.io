@@ -1,3 +1,7 @@
+/* Custom Stylesheet */
+.navbar {
+    background-color: black;
+}
 .default-section {
     position: relative;
     background-image: url("/static/img/site/backevos.jpg");

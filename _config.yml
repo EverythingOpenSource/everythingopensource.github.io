@@ -3,7 +3,7 @@ title: Home
 email: everythingopensource@gmail.com
 description: >- 
   Official website to document all activities happening in the everything open source community
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "everythingopensource" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 

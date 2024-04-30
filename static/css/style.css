@@ -1,4 +1,16 @@
 /* Custom Stylesheet */
+
+body {
+    font-family: "Noto Sans", sans-serif;
+        scroll-snap-type: y mandatory;
+        overflow-y: scroll;
+}
+
+#about {
+    scroll-snap-align: start;
+    /* Add other styles as needed */
+}
+
 .navbar {
     background-color: black;
 }
@@ -27,7 +39,7 @@
 @keyframes tracking-in-expand{0%{letter-spacing:-.5em;opacity:0}40%{opacity:.6}100%{opacity:1}}
 
 .header-text h1 {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
 }
 .logo {
     padding: 0.5rem 1rem;

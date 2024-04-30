@@ -29,12 +29,13 @@
         </div>
     </header>
 
-    <section>
-      <div class="container">
-        <div class="d-flex justify-content-end">
+    <section class="container">
+     {% include about.html %}
+     {% include programs.html %}
+      
+        <div class="d-flex flex-column justify-content-around align-items-center ">
           <div class="col-lg-10 col-12 content djc-default">{{content}}</div>
         </div>
-      </div>
     </section>
 
     {% include footer.html %}
